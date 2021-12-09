@@ -1,0 +1,163 @@
+*{
+    font-family: Verdana; 
+    padding:0;
+    margin:0; 
+}
+
+html, body{
+    height:100%;
+    width:100%;
+    background-color:gainsboro;
+    
+}
+#section01 {
+    background: url(tmm2.PNG) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 1000px
+}
+}
+
+    
+}
+#menu{
+width:50px; 
+height:10px;
+    position: fixed; 
+    right:0px;
+}
+h2 {
+    position:relative;
+    text-shadow: 2px 2px #000000;
+    text-align: center;
+    top: 300px;
+    color:white;
+    height:auto; 
+    width:auto;
+    
+}
+    h5 {
+    position:relative;
+    top: 180px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #CCCCCC;
+}
+
+#menu {
+  position: fixed;
+  right: 0;
+  top: 45%;
+  width: 6em;
+  margin-top: -2.5em;
+    background-color:black;
+    color:orange;
+    height: 30px;
+    text-align: right;
+   opacity: 10;
+    text-align: center;
+}
+    #menu img{
+	height: 25px;
+	width: 30px;
+	float: left;
+        text-align: center;
+	
+}
+
+#menu p{
+	float:left;
+	font-family: Calibri;
+	font-size: 1rem;
+	color: #ffd11a;
+	
+    
+}
+#dropdown{
+    position: relative;
+    top: 900px;
+left: 6px;
+    text-align: center;
+    color: transparent;
+    
+}
+#section02{
+    background-color: transparent;
+    height:70%;
+    width:100%;
+}
+#space {
+    background-color: grey;
+    height: 5%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+#theproblem{
+    background-color: beige;
+    height:660px;
+    width:1000px;
+    left:10px
+    right: 100px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px #888888;
+    padding:top;
+    top:100px;
+    
+   
+    }
+
+.cr {
+    position: relative;
+    margin: auto;
+    left:0%;
+    top:5px;
+    text-align: center;
+    width:600px;
+    height: 48px;
+    margin-top: 20px;
+    text:75%;
+}
+p{
+    text-align: center;
+    top: 30px;
+    
+}
+#bottom{
+    overflow: hidden;
+    background-color: transparent;
+    height: 5%;
+    box-shadow: 10px 10px 5px #888888;
+}
+#actio{
+    width: 1000px;
+    height:300px;
+    background-color:white;
+    box-shadow: 10px 10px 5px #888888;
+}
+.cd{
+    background-color:white; 
+}
+h4{
+    font-family: cursive;
+    color: blue;
+    top: 25px;
+    text-align: center;
+}
+#done{
+    height: 300px;
+    width: 1000px;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888;
+    
+}
+#footer {
+    background-color: beige;
+    height: auto;
+    width: 600px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #888888;
+{
+       
